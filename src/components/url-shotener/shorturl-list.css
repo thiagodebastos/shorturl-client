@@ -1,0 +1,14 @@
+.shorturl-list {
+  list-style-type: none;
+  border: 2px solid;
+  padding: 0.75rem;
+  color: darkslategray;
+}
+
+.shorturl-list li {
+  padding: 0.5rem;
+}
+
+.shorturl-list li:nth-child(2n) {
+  background-color: #e6e6e6;
+}
